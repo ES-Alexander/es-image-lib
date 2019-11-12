@@ -1,0 +1,4 @@
+# These packages are required for the functionality of the library
+numpy
+opencv-python
+matplotlib
